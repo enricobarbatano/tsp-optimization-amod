@@ -28,13 +28,6 @@ Sono stati sviluppati e confrontati due modelli:
 - Validazione delle soluzioni ottenute rispetto al valore ottimo.  
 - Analisi grafica e tabellare delle prestazioni su istanze multiple.
 
-## Struttura del progetto
-├── ampl_models/
-│ ├── tsp_formulation.mod
-│ ├── tsp_data.dat
-│ └── tsp_run.run
-├── heuristic/
-│ ├── tsp_heuristic.py
 │ └── results.csv
 ├── analysis/
 │ └── comparison.ipynb
