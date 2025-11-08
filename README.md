@@ -28,7 +28,4 @@ Sono stati sviluppati e confrontati due modelli:
 - Validazione delle soluzioni ottenute rispetto al valore ottimo.  
 - Analisi grafica e tabellare delle prestazioni su istanze multiple.
 
-│ └── results.csv
-├── analysis/
-│ └── comparison.ipynb
-└── README.md
+
